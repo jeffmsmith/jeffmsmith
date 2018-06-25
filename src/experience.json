@@ -1,0 +1,105 @@
+{
+    "name": "Professional Experience",
+    "jobs": [
+        {
+            "title": "Team Lead",
+            "employer": "ShiftWise, Inc.",
+            "location": "Portland, OR",
+            "duration": "10/2017 - Current",
+            "accomplishments": [
+                "Began and organized a team of 5 or 6 people for three distinct teams using Agile Scrum or Kanban.",
+                "Reviewed, assessed, and interviewed many new employee candidates resulting in the majority of the sitting staff today.",
+                "Organized project to decommission and replace a major component of the CI/CD pipeline while keeping deployments uninterrupted.",
+                "Organized and contributed to multiple feature sets related to rates, billing, scheduling, job matching, and many other core business related features.",
+                "Organized and contributed to swapping database access layer tools across 13 micro-services.",
+                "Created, maintained, and provided training for managing multiple NuGet repositories.",
+                "Participated in design and implementation solutions related to messaging, data access, performance, data structure, code quality, test coverage, continuous delivery, and many more solutions specific to the business requirements."
+            ]
+        },
+        {
+            "title": "Software Developer",
+            "employer": "ShiftWise, Inc.",
+            "location": "Portland, OR",
+            "duration": "6/2013 - 10/2017",
+            "accomplishments": [
+                "Developed an Android and an iOS application using C#, Xamarin, and Xcode.",
+                "Developed web applications with JavaScript and AngularJS.",
+                "Developed service applications with C#, dotNet Core, ServiceStack, RabbitMq, and AWS technologies (EC2, DynamoDB, RDS, SQS, SNS, etc..).",
+                "Developed database applications with BSON (MongoDB), T-SQL (Microsoft SQL Server or Postgres), or JSON-B (Postgres).",
+                "Fixed defects in legacy web based applications using ASP.NET, C#, JavaScript/JQuery, and MS SQL.",
+                "Provided Tier III support for issues found in the field that required immediate patches or data changes in production.",
+                "Maintained and developed automated UI and web service tests using FluentAssertions, Nunit, Selenium, and C#.",
+                "Published documentation on development standards, practices, and patterns.",
+                "Represented ShiftWise software development at social events."
+                ]
+
+        },
+        {
+            "title": "QA Analyst II",
+            "employer": "ADP Dealership Services",
+            "location": "Portland, OR",
+            "duration": "3/2012 - 6/2013",
+            "accomplishments": [
+                "Created, managed, and delegated test plans for multiple supported versions of a third-party telephony client/server application integrated with locally developed SaS web/application/database application suite.",
+                "Setup and tested with Cisco and BroadSoft call management applications and phone systems.",
+                "Collaborated with agile sprint teams in the US and Britain including multiple daily scrum meetings, sprint planning, reviews and retrospectives using TFS, Visual Studio 2012, Live Meeting and OneNote.",
+                "Created and maintained 10 to 20 virtual machines and/or templates for QA, Integration, and Staging environments using vSphere.",
+                "Created custom test case and bug tracking reports for sprint reviews and upon request of Product Owners/Product Managers."
+            ]
+        },
+        {
+            "title": "Sr. QA Engineer/Lead",
+            "employer": "Giftango Corporation",
+            "location": "Portland, OR",
+            "duration": "2/2011 - 3/2012",
+            "accomplishments": [
+                "Designed and developed automated test suites using C#, MSTest and Selenium for stored value/gift card processing services and websites.",
+                "Managed User Stories, Tasks, Test Cases, Test Suites using TFS (Team Foundation Server) and Microsoft Test Manager.",
+                "Provided professional consultation for all quality analysis management, planning and effort.",
+                "Submitted, researched, and validated Bug work items in TFS.",
+                "Maintained multiple test environments (both client and server environments) using VMWare.",
+                "Executed minimal acceptance test suites against staging and production (nightly) deployments on a weekly basis.",
+                "Perform Globalization, PCI, and multi-browser testing."
+            ]
+        },
+        {
+            "title": "QA Analyst",
+            "employer": "Fiserv",
+            "location": "Hillsboro, OR",
+            "duration": "2/2008 - 2/2011",
+            "accomplishments": [
+                "Designed and developed automated test suites using C#, NUnit and WatiN for online banking applications.",
+                "Setup Continuous Integration using CrusieControl.NET and PowerShell for automatically triggering product installation and test execution against multiple virtual-server environments.",
+                "Developed and maintained a Quality Center API application in C# using XSLT that allows NUnit tests to be automatically uploaded into Quality Center.",
+                "Core automation team member involved in setting standards and processes for my department’s automation development.",
+                "Regularly tested and maintain multi-server environments running online banking software.",
+                "Worked with architects and senior engineers to research, develop and automate tests for a new SOA based product.",
+                "Provided expertise and guidance to develop internal Knowledge Base.",
+                "Traveled to India to train geographically diverse QA and development teams."
+            ]
+        },
+        {
+            "title": "Software Test Engineer",
+            "employer": "Intellitax Software Solutions",
+            "location": "Bellevue, WA",
+            "duration": "10/2005 - 2/2008",
+            "accomplishments": [
+                "Constructed test plans and test cases from a variety of sources to provide an efficient amount of testing over a numerous-product, client-to-server scope (System Testing). This included, but was not limited to company fees, bank loan programs, client software and multi-office managing suites.",
+                "Focus of testing on the 30+ server Filing Center that included SQL 2005, JBoss, Tomcat, IIS, BigIP, and basic application servers running Win2k3 Server.",
+                "Solely provide compliance testing and test procedures for largest banking partner- the company’s largest single source of income providing ~80% of the bank services.",
+                "Identify and relay software defects to development, product management, and external partners. Verify and release hot-fixes to production during live operation."
+            ]
+        },
+        {
+            "title": "Support Analyst/Tester",
+            "employer": "Intellitax Software Solutions",
+            "location": "Bellevue, WA",
+            "duration": "11/2001 - 10/2005",
+            "accomplishments": [
+                "Designed and implemented two versions of a fully integrated web-based CRM system in cooperation with a team of four.",
+                "Produced professional level software requirements and specifications for multiple internal products including the CRM System and Knowledge Base.",
+                "Managed a team of four to develop and maintain a knowledge base that was 1200+ articles for both internal and public viewing."
+            ]
+        }
+    ]
+}

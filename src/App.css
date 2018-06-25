@@ -1,36 +1,61 @@
 .App {
   text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  max-width: 1024px;
 }
 
 .App-header {
-  background-color: #222;
-  height: 60px;
-  padding: 20px;
-  color: #ffffff;
+  background-color: #ffffff;
+  border-bottom: 2px solid #222;
+  margin: 0 4px 0 4px;
+  height: 40px;
+  padding: 16px;
+  right: 0;
+  left: 0;
+  top: 0;
+  color: #222;
 }
 
 .App-footer {
-  background-color: #222;
+  background-color: #ffffff;
   height: 40px;
   padding: 20px;
-  position: fixed;
-  left: 0;
+  position: relative;
+  border-top: 2px solid #222;
+  margin: 0 4px 0 4px;
+  max-width: 1024px;
   right: 0;
+  left: 0;
   bottom: 0;
-  color: #ffffff;
+  color: #222;
+  font-size: small;
 }
 
 .App-title {
   font-size: 1.5em;
 }
 
-.Highlights-title {
-  text-align: left;
-  font-size: medium;
-  padding: 10px;
+.Section {
+  margin-left: 10px;
 }
 
-.Highlights-list {
-  text-align: left;
+.Section-title {
+  font-size: 1.15em;
+}
+
+.Section-list {
+  font-size: small;
+}
+
+.Job {
+  margin-left: 6px;
+}
+
+.Job-title {
+  font-weight: 600;
+  font-size: medium;
+}
+
+.Job-sub-title {
   font-size: small;
 }
