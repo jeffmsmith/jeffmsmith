@@ -1,0 +1,28 @@
+.Footer {
+  background-color: #ffffff;
+  height: 40px;
+  padding: 10px;
+  position: relative;
+  border-top: 2px solid #222;
+  margin: 0 4px 0 4px;
+  max-width: 1024px;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  color: #222;
+  font-size: medium;
+}
+
+.Footer-table {
+  display: table;
+  width: 100%;
+}
+
+.Footer-row {
+  display: table-row;
+}
+
+.Footer-cell {
+  display: table-cell;
+  padding: 2px;
+}

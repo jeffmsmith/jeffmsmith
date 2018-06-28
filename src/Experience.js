@@ -2,19 +2,19 @@ import React, { Component } from 'react';
 import './App.css';
 import Job from './Job.js';
 
-class Experiences extends Component {
+class Experience extends Component {
   render() {
     return (
-      <p className="Section">
+      <div className="Section">
         <h1 className="Section-title">{this.props.name}</h1>
         {
-            this.props.jobs.map(job => {
-              return <Job job={job} />;
+            this.props.jobs.map((job, key) => {
+              return <Job key={key} job={job} />;
             })
         }
-      </p>
+      </div>
     );
   }
 }
 
-export default Experiences;
+export default Experience;

@@ -1,0 +1,25 @@
+{
+    "name": "Vocation Education",
+    "educations": [
+        {
+            "school": "A Cloud Guru via Udemy",
+            "course": "AWS Certified Solutions Architect - Associate",
+            "completionYear": "2018"
+        },
+        {
+            "school": "Rice University via Coursera",
+            "course": "An Introduction to Interactive Programming in Python",
+            "completionYear": "2012"
+        },
+        {
+            "school": "Portland Community College",
+            "course": "C# Programming I & II",
+            "completionYear": "2008"
+        },
+        {
+            "school": "University of Washington Extension",
+            "course": "Quality Assurance & Quality Control",
+            "completionYear": "2007"
+        }
+    ]
+}

@@ -7,9 +7,10 @@
             "location": "Portland, OR",
             "duration": "10/2017 - Current",
             "accomplishments": [
+                "Designed and maintained an AWS microservice immutable infrastructure using HashiCorp Terraform, bash scripts, and TravisCI",
                 "Began and organized a team of 5 or 6 people for three distinct teams using Agile Scrum or Kanban.",
                 "Reviewed, assessed, and interviewed many new employee candidates resulting in the majority of the sitting staff today.",
-                "Organized project to decommission and replace a major component of the CI/CD pipeline while keeping deployments uninterrupted.",
+                "Organized project to decommission and replace a major component (HashiCorp Atlas) of the CI/CD pipeline while keeping deployments uninterrupted.",
                 "Organized and contributed to multiple feature sets related to rates, billing, scheduling, job matching, and many other core business related features.",
                 "Organized and contributed to swapping database access layer tools across 13 micro-services.",
                 "Created, maintained, and provided training for managing multiple NuGet repositories.",
@@ -32,7 +33,6 @@
                 "Published documentation on development standards, practices, and patterns.",
                 "Represented ShiftWise software development at social events."
                 ]
-
         },
         {
             "title": "QA Analyst II",

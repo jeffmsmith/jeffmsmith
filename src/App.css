@@ -1,6 +1,5 @@
 .App {
   text-align: left;
-  font-family: 'Times New Roman', Times, serif;
   max-width: 1024px;
 }
 
@@ -16,21 +15,6 @@
   color: #222;
 }
 
-.App-footer {
-  background-color: #ffffff;
-  height: 40px;
-  padding: 20px;
-  position: relative;
-  border-top: 2px solid #222;
-  margin: 0 4px 0 4px;
-  max-width: 1024px;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  color: #222;
-  font-size: small;
-}
-
 .App-title {
   font-size: 1.5em;
 }
@@ -44,18 +28,5 @@
 }
 
 .Section-list {
-  font-size: small;
-}
-
-.Job {
-  margin-left: 6px;
-}
-
-.Job-title {
-  font-weight: 600;
-  font-size: medium;
-}
-
-.Job-sub-title {
   font-size: small;
 }

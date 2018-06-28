@@ -1,0 +1,16 @@
+.Job {
+    margin-left: 6px;
+}
+
+.Job-title {
+    font-weight: 600;
+    font-size: medium;
+}
+
+.Job-sub-title {
+    font-size: small;
+}
+
+.Job-accomplishments-list {
+    font-size: small;
+}
