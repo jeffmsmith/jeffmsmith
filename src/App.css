@@ -1,6 +1,7 @@
 .App {
   text-align: left;
   max-width: 1024px;
+  padding: 10px;
 }
 
 .App-header {
